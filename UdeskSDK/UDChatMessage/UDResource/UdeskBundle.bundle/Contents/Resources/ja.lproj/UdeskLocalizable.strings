@@ -1,0 +1,124 @@
+/* 
+  UdeskLocalizable.strings
+  UdeskSDK
+
+  Created by Udesk on 16/9/2.
+  Copyright © 2016年 Udesk. All rights reserved.
+*/
+
+//faq
+"udesk_faq_title" = "ヘルプ";
+"udesk_faq_details_title" = "問題の詳細について";
+"udesk_faq_search" = "検索";
+"udesk_faq_Contactus" = "お問合せ";
+"udesk_faq_tips" = "ご検索の内容は見つかりませんか?";
+
+//im
+"udesk_close" = "閉じる";
+"udesk_back" = "戻る";
+"udesk_cancel" = "キャンセル";
+"udesk_sure" = "確定";
+"udesk_alert_view_blocked_list" = "申し訳ございません。ブラックリストに入れられました";
+"udesk_im_title_blocked_list" = "ブラックリストに入れられました";
+"udesk_network_interrupt" = "インターネットは接続されていません";
+"udesk_chat_end" = "チャートは終了しました";
+"udesk_top_view_thanks_evaluation" = "ごレビューいただき、どうもありがとうございました！";
+"udesk_top_view_failure" = "レビューは失敗しました！";
+"udesk_has_survey" = "どうもありがとうございました。レビューはいただきました！";
+"udesk_no_send_empty" = "メッセージをご入力してください";
+"udesk_resend_msg" = "このメッセージを再送しますか？";
+"udesk_send" = "発送";
+"udesk_typing" = "メッセージをご入力...";
+"udesk_hold_to_talk" = "押しながらチャートをしてください";
+"udesk_release_to_cancel" = "指を離して、発送をキャンセルします";
+"udesk_microphone_denied" = "appマイクを訪問する必要になっています。\nマイクを有効にしてください―設定/プライベート/マイク";
+"udesk_album_denied" = "appはアルバムを訪問する必要になっています。\nアルバムを有効にしてください―設定/プライベート/アルバム";
+"udesk_camera_denied" = "appはカメラを訪問する必要になっています。\nカメラを有効にしてください―設定/プライベート/カメラ";
+"udesk_leave_msg" = "メッセージ";
+"udesk_connecting_agent" = "受付担当者につなげています...";
+"udesk_agent_offline" = "受付担当者はオフラインです";
+"udesk_agent_busy" = "受付担当者は取込中です";
+"udesk_redirect" = "受付担当者へ回してください";
+"udesk_robot_title" = "AIロボット";
+"udesk_alert_view_agent_busy_leave_msg" = "受付担当者は取込中のため、メッセージをお伝えする場合はボタンを押してフォームにメッセージを残してください。";
+"udesk_alert_view_leave_msg" = "受付担当者はオフラインのため、フォームでご質問を説明していただき、後程、ご連絡させていただきます。";
+"udesk_alert_view_direct_msg" = "只今、受付担当者はオフラインのため、メッセージでご質問を説明していただき、後程、ご連絡させていただきます。";
+"udesk_alert_view_no_reply_hint" = "只今、受付担当者はオフラインのため、勤務時間中ご連絡ください。";
+"udesk_network_disconnect" = "インターネットは接続されていません。まず、インターネットを接続してください。";
+"udesk_has_bad_net" = "ネットワークは接続されていません。設定を確認してください。";
+"udesk_wait_connecting" = "接続中、少々お待ちください...";
+"udesk_thanks" = "ごレビュー、ありがとうございました。";
+"udesk_reassign_agent"="改めて、受付担当者を手配しますので、少々お待ちください…";
+"udesk_agent_not_exist" = "受付け担当者は存在しません";
+"udesk_group_not_exist" = "受付担当組は存在しません";
+"udesk_copy" = "コピー";
+"udesk_call" = "呼び出し";
+"udesk_today" = "今日";
+"udesk_yesterday" = "昨日";
+"udesk_save" = "保存";
+"udesk_failed_save" = "保存は失敗しました";
+"udesk_success_save" = "保存は成功しました";
+"udesk_send_link" = "リンクを発送します";
+"udesk_choose_group" = "受付担当組をお選びください";
+"udesk_agent" = "受付担当者";
+"udesk_online" = "オンライン";
+"udesk_offline" = "オフライン";
+"udesk_failed_video" = "再生できません";
+"udesk_has_send" = "発送ができました";
+"udesk_has_downed" = "ダウンロードが出来ました";
+"udesk_video_download" = "ダウンロード";
+"udesk_has_uncomplete_tip" = "ダウンロードが終わってから、クリックしてください";
+"udesk_download_failure" = "ダウンロードは失敗しました。再度ダウンロードしてください。";
+"udesk_wwan_tips" = "通信量についてのご注意";
+"udesk_video_send_tips" = "Wi-Fi環境でない為、ファイルの発送に通信料はかかります。続きますか?";
+"udesk_video_big_tips" = "ファイルは重いため、発送できません";
+"udesk_customer_leave_msg" = "お客様メッセージ";
+"udesk_leave_message_offline_reply" = "自動応答メッセージ";
+"udesk_rollback" = "メッセージを1本撤回しました";
+"udesk_location" = "位置";
+"udesk_phone_number_tip" = "電話番号であるかもしれません。実施可能です";
+"udesk_file_not_exist" = "このファイルは存在しません。リンクは間違いました。";
+"udesk_download_failed" = "ダウンロードは失敗しました。";
+"udesk_search" = "検索";
+"udesk_video_export_failed" = "ビデオのアウトプットは失敗しました";
+"udesk_agent_transfer_tip" = "受付担当者につながりました。ただいま@でございます。";
+
+"udesk_preview" = "プレビュー";
+"udesk_full_image" = "そのまま";
+"udesk_photo" = "写真";
+"udesk_max_count_photo" = "写真は@枚以下を選んでください";
+"udesk_small_video_tips" = "軽くタップして写真を撮り、押すとビデオに変えます";
+"udesk_second" = "秒";
+"udesk_album" = "アルバム";
+"udesk_shooting" = "撮影";
+"udesk_survey" = "レビュー";
+"udesk_location" = "地理的位置";
+"udesk_video_call" = "ビデオ電話";
+"udesk_hold_to_talk" = "押してチャートします";
+"udesk_release_to_send" = "離すと終了します";
+"udesk_release_to_cancel" = "離すとキャンセルします";
+"udesk_slide_up_to_cancel" = "上フリックして、発送をキャンセルします";
+"udesk_release_up_to_cancel" = "指を離して、発送をキャンセルします";
+"udesk_message_too_short" = "お話の時間が短すぎます";
+"udesk_service_survey" = "サービスへのごレビュー";
+"udesk_submit_survey" = "レビュー提出";
+"udesk_survey_satisfied" = "満足";
+"udesk_survey_general" = "普通";
+"udesk_survey_unsatisfactory" = "不満足";
+"udesk_survey_tips" = "今のサービスにごレビューをお願い申し上げます。";
+"udesk_survey_remark_required" = "レビューのコメントは必ずご記入ください";
+"udesk_admin" = "管理員";
+"udesk_queue" = "順番待ち中";
+
+"udesk_video_call_duration" = "通話時間：";
+
+//agent
+"udesk_video_call_agent_busy" = "相手方はお取込中";
+"udesk_video_call_agent_decline" = "相手方は断りました";
+"udesk_video_call_agent_cancel" = "キャンセルしました";
+"udesk_video_call_agent_not_answered" = "相手方から応答がありません";
+"udesk_video_call_agent_not_logged_in" = "受付担当者はビデオを登録していません";
+
+//customer
+"udesk_video_call_customer_cancel" = "相手方はキャンセルしました";
+"udesk_video_call_customer_decline" = "断りました";

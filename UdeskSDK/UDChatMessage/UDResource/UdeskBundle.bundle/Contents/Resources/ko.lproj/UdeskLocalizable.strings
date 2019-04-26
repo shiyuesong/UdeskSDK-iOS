@@ -1,0 +1,124 @@
+/* 
+  UdeskLocalizable.strings
+  UdeskSDK
+
+  Created by Udesk on 16/9/2.
+  Copyright © 2016年 Udesk. All rights reserved.
+*/
+
+//faq
+"udesk_faq_title" = "고객센터";
+"udesk_faq_details_title" = "자세한 사정";
+"udesk_faq_search" = "검색";
+"udesk_faq_Contactus" = "연락처";
+"udesk_faq_tips" = "검색하시는 내용이 존재하지 안나요?";
+
+//im
+"udesk_close" = "닫기";
+"udesk_back" = "돌아가기";
+"udesk_cancel" = "취소";
+"udesk_sure" = "확인";
+"udesk_alert_view_blocked_list" = "죄송합니다, 당신은 이미 블랙리스트에 올랐습니다.";
+"udesk_im_title_blocked_list" = "당신은 이미 블랙리스트에 올랐습니다.";
+"udesk_network_interrupt" = "네트워크 연결이 끊겼습니다.";
+"udesk_chat_end" = "통화 결속";
+"udesk_top_view_thanks_evaluation" = "평가해주셔서 감사합니다!";
+"udesk_top_view_failure" = "평가 실패!";
+"udesk_has_survey" = "감사합니다, 당신은 이미 이번 서비스에 대해 평가하셨습니다!";
+"udesk_no_send_empty" = "공백 메시지는 발송 불가입니다.";
+"udesk_resend_msg" = "이 메시지를 다시 보낼가요?";
+"udesk_send" = "발송";
+"udesk_typing" = "메시지 입력...";
+"udesk_hold_to_talk" = "눌르고 말하기.";
+"udesk_release_to_cancel" = "버튼을 놓으면 취소됩니다.";
+"udesk_microphone_denied" = "app당신의 마이크를 방문하고자 합니다.\n마이크를 오픈해 주십시오-설정/프라이버시/마이크";
+"udesk_album_denied" = "app앱은 당신의 픽쳐를 방문하고자 합니다.\n픽쳐를 오픈해 주십시오-설정/프라이버시/픽쳐";
+"udesk_camera_denied" = "app앱은 당신의 카메라를 방문하고자 합니다.\n카메라를 오픈해 주십시오-설정/프라이버시/카메라";
+"udesk_leave_msg" = "메시지 남기기";
+"udesk_connecting_agent" = "고객 서비스 연결 중...";
+"udesk_agent_offline" = "고객 서비스가 온라인이 아닙니다.";
+"udesk_agent_busy" = "고객 서비스가 다망합니다.";
+"udesk_redirect" = "인공 서비스로 바꿉니다.";
+"udesk_robot_title" = "스마트 로봇";
+"udesk_alert_view_agent_busy_leave_msg" = "지금 고객 서비스가 다망하니 메시지를 남기시려면 버튼을 눌러FORM에 메시지를 남기십시오.";
+"udesk_alert_view_leave_msg" = "지금 고객 서비스가 온라인이 아니므로FORM를 제출해 당신의 문제를 묘사하시면  저희가 연락드리겠습니다.";
+"udesk_alert_view_direct_msg" = "지금 고객 서비스가 온라인이 아니므로 메시지를 통해 직접 당신의 문제를 묘사하시면 저희가 연락드리겠습니다.";
+"udesk_alert_view_no_reply_hint" = "지금 고객 서비스가 오프라인이므로 업무 시간에 연락주십시오.";
+"udesk_network_disconnect" = "네트워크 연결이 끊겼습니다. 먼저 네트워크에 연결해 주세요.";
+"udesk_has_bad_net" = "네트워크가 잘못되었습니다. 네트워크 설정을 확인하십시오.";
+"udesk_wait_connecting" = "연결 중입니다, 잠시 기다려 주십시오...";
+"udesk_thanks" = "평가해주셔서 감사합니다.";
+"udesk_reassign_agent"="고객 서비스를 재분배합니다. 잠시 기다려 주십시오...";
+"udesk_agent_not_exist" = "고객 서비스가 없습니다.";
+"udesk_group_not_exist" = "고객 서비스 팀이 없습니다.";
+"udesk_copy" = "복제";
+"udesk_call" = "호출";
+"udesk_today" = "오늘";
+"udesk_yesterday" = "어제";
+"udesk_save" = "저장";
+"udesk_failed_save" = "저장실패";
+"udesk_success_save" = "저장성공";
+"udesk_send_link" = "링크 보내기";
+"udesk_choose_group" = "고객 서비스 팀을 선택해 주십시오.";
+"udesk_agent" = "고객 서비스";
+"udesk_online" = "온라인";
+"udesk_offline" = "오프라인";
+"udesk_failed_video" = "재생할 수 없음";
+"udesk_has_send" = "전송됨";
+"udesk_has_downed" = "다운로드됨";
+"udesk_video_download" = "다운로드";
+"udesk_has_uncomplete_tip" = "다운로드 하시고 클릭하십시오.";
+"udesk_download_failure" = "다운로드 실패, 다시 다운로드 하십시오.";
+"udesk_wwan_tips" = "모바일 데이터 알림";
+"udesk_video_send_tips" = "현재 와이파이 환경이 아니므로 파일을 발송할 시 일정한 모바일 데이터를 소모합니다. 계속 발송하시겠어요? ";
+"udesk_video_big_tips" = "파일이 너무 커서 발송할 수 없습니다.";
+"udesk_customer_leave_msg" = "고객 메시지";
+"udesk_leave_message_offline_reply" = "메시지 오프라인 답장";
+"udesk_rollback" = "메시지를 취소했습니다.";
+"udesk_location" = "위치정보";
+"udesk_phone_number_tip" = "전화번호일 수 있습니다. 당신은";
+"udesk_file_not_exist" = "존재하지 않는 파일입니다, 링크 오류";
+"udesk_download_failed" = "다운도르 실패";
+"udesk_search" = "조회";
+"udesk_video_export_failed" = "동영상 도출 실패";
+"udesk_agent_transfer_tip" = "고객 서비스 인계 성공, @가 당신을 위해 서비스를 제공합니다.";
+
+"udesk_preview" = "미리 보기";
+"udesk_full_image" = "원도";
+"udesk_photo" = "픽쳐";
+"udesk_max_count_photo" = "많아서 @장 픽쳐를 선택하실 수 있습니다.";
+"udesk_small_video_tips" = "살짝 터치하면 사진을 찍고, 눌르면 촬영합니다.";
+"udesk_second" = "초";
+"udesk_album" = "사진첩";
+"udesk_shooting" = "촬영";
+"udesk_survey" = "평가";
+"udesk_location" = "지리위치";
+"udesk_video_call" = "화상 통화";
+"udesk_hold_to_talk" = "눌르고 말하기";
+"udesk_release_to_send" = "놓아서 끝";
+"udesk_release_to_cancel" = "놓아서 취소하기";
+"udesk_slide_up_to_cancel" = "위로 밀어서 취소";
+"udesk_release_up_to_cancel" = "놓아서 취소하기";
+"udesk_message_too_short" = "메시지가 너무 짧습니다.";
+"udesk_service_survey" = "서비스 평가";
+"udesk_submit_survey" = "평가 제출";
+"udesk_survey_satisfied" = "만족";
+"udesk_survey_general" = "일반";
+"udesk_survey_unsatisfactory" = "불만족";
+"udesk_survey_tips" = "현재 서비스에 대해 평가해 주십시오, 감사합니다!";
+"udesk_survey_remark_required" = "평가 비고는 필수 항목";
+"udesk_admin" = "관리인";
+"udesk_queue" = "줄은 서고 있는 중";
+
+"udesk_video_call_duration" = "통화 시간:";
+
+//agent
+"udesk_video_call_agent_busy" = "상대방이 통화 중입니다";
+"udesk_video_call_agent_decline" = "상대방이 거절했습니다";
+"udesk_video_call_agent_cancel" = "취소됨";
+"udesk_video_call_agent_not_answered" = "상대방이 응답이 없습니다";
+"udesk_video_call_agent_not_logged_in" = "고객 서비스가 동영상에 로그인하지 않았습니다";
+
+//customer
+"udesk_video_call_customer_cancel" = "상대방이 이미 취소했습니다";
+"udesk_video_call_customer_decline" = "거절됨";
